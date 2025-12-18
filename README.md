@@ -607,6 +607,66 @@ button1.check();
 ```
 ---
 
+## 📥 Important Downloads & Resources
+
+Below are the **official and trusted resources** required to successfully build, compile, and run this ESP8266 Firebase IoT Home Automation project.
+
+---
+
+### 🔧 ESP8266 Arduino Core
+
+This is **mandatory** to program ESP8266 boards using Arduino IDE.
+
+* **ESP8266 Arduino Core (Official)**
+
+  * 🔗 [https://github.com/esp8266/Arduino](https://github.com/esp8266/Arduino)
+
+---
+
+### 🔥 Firebase Library
+
+Used for secure and real-time communication with **Firebase Realtime Database**.
+
+* **Firebase_ESP_Client**
+
+  * Author: **Mobizt**
+  * Version: **4.4.17**
+  * 🔗 [https://github.com/mobizt/Firebase-ESP-Client](https://github.com/mobizt/Firebase-ESP-Client)
+
+---
+
+### 📦 JSON Parsing Library
+
+Required for handling structured data communication with Firebase.
+
+* **ArduinoJson**
+
+  * Version: **7.4.1**
+  * 🔗 [https://arduinojson.org/?utm_source=meta&utm_medium=library.properties](https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
+
+---
+
+### 🔘 Button Handling Library
+
+Provides **debounced, event-driven** button and switch handling.
+
+* **AceButton**
+
+  * Version: **1.10.1**
+  * 🔗 [https://github.com/bxparks/AceButton](https://github.com/bxparks/AceButton)
+
+---
+
+### 📌 Notes
+
+* Always install **exact versions** mentioned above to avoid compatibility issues.
+* All libraries can be installed via:
+
+  * **Arduino IDE → Sketch → Include Library → Manage Libraries**
+* Restart Arduino IDE after installing libraries for best results.
+
+---
+
 ## 👨‍💻 Author
 
 **Prakash Kumar Sahoo**
