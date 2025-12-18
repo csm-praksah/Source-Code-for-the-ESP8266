@@ -193,6 +193,53 @@ const char* password = "YourWiFiPassword";
 #define USER_EMAIL "firebase-user-email"
 #define USER_PASSWORD "firebase-user-password"
 ```
+---
+
+## 📌 Where to Find Firebase Credentials
+
+To configure this project, you need the following Firebase details:
+
+---
+
+### 🔑 API_KEY
+
+1. Open **Firebase Console**
+2. Select your **Project**
+3. Click on **⚙️ Settings > Project Settings**
+4. Go to the **General** tab
+5. Scroll down to find **Web API Key**
+6. Copy and paste this key into the project configuration
+
+---
+
+### 🌐 DATABASE_URL
+
+1. Open **Firebase Console**
+2. Go to **Realtime Database**
+3. Copy the database URL
+
+The URL will look like this:
+
+```
+https://your-project-id-default-rtdb.firebasedatabase.app/
+```
+
+---
+
+### 👤 USER_EMAIL / USER_PASSWORD
+
+1. Open **Firebase Console**
+2. Go to **Authentication**
+3. Enable **Email/Password** sign-in method
+4. Add a new user with an **email** and **password**
+5. Use these credentials in the project for authentication
+
+---
+
+### ⚠️ Important Note
+
+* Keep your API key and credentials **private**
+* Do not commit sensitive data to public repositories
 
 ---
 
