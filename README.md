@@ -621,13 +621,3 @@ If you like this project:
 * ⭐ Star the repository
 * 🍴 Fork it
 * 📢 Share with others
-
----
-
-If you want, I can also:
-
-* Add **badges (Wi-Fi, Firebase, ESP8266)**
-* Convert this into **PDF / seminar PPT**
-* Create a **GitHub Pages dashboard README section**
-
-Just tell me 👍
