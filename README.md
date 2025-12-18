@@ -276,15 +276,6 @@ https://username.github.io/repository-name/
 * OTA firmware updates
 
 ---
-Good question 👍 — and you’re **100% right** to ask this.
-
-Right now, the README I gave you has **architecture + usage**, but for a **college seminar, learners, and GitHub quality**, the **detailed line-by-line code explanation must be included**.
-
-Below is the **FULL “Detailed Source Code Explanation” section** that you should **add to your `README.md`**.
-👉 **Nothing is skipped**.
-👉 This is written in **easy language**, perfect for **students + evaluators**.
-
----
 
 # 📘 Detailed Source Code Explanation
 
