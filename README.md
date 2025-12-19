@@ -33,6 +33,7 @@ All relay states are **synchronized in real-time** with Firebase, ensuring relia
 ---
 
 ## 🧠 How the System Works
+![IoT Based Smart Home Automation using ESP8266](https://github.com/user-attachments/assets/aede1329-51a6-4ed3-b5c1-cc43a9889d76)
 
 1. ESP8266 connects to **Wi-Fi**
 2. Firebase is initialized using **Email/Password authentication**
